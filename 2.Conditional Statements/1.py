@@ -1,4 +1,4 @@
-#Generar un número aleatorio entre 1 y 20. Luego informar si el número tiene uno o dos dígitos
+"""Generar un número aleatorio entre 1 y 20. Luego informar si el número tiene uno o dos dígitos"""
 
 import random
 

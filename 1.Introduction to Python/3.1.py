@@ -1,4 +1,4 @@
-#Realizar un programa en Python que imprima por pantalla los datos que se le han pedido por teclado: Nombre, Apellidos ,Edad, DNI y Domicilio
+"""Realizar un programa en Python que imprima por pantalla los datos que se le han pedido por teclado: Nombre, Apellidos ,Edad, DNI y Domicilio"""
 
 nombre=input("Nombre: ")
 apellido=input("Apellido: ")

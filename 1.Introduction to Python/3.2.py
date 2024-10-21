@@ -1,4 +1,4 @@
-#Realizar un programa en Python que calcule el área (en metros cuadrados) y el perímetro (en metros) de un cuadrado 5 metros de lado.””
+"""Realizar un programa en Python que calcule el área (en metros cuadrados) y el perímetro (en metros) de un cuadrado 5 metros de lado."""
 
 cuadrado=5
 area=(cuadrado*2)
